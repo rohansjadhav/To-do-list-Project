@@ -133,3 +133,10 @@ Click Build now to run the pipeline. Once the pipeline finishes, the logs will s
 I changed the title in index.html before running the pipeline, and the change was reflected in the hosted application.
 
 ![image](https://github.com/rohansjadhav/To-do-list-Project/assets/149859730/427075ec-6531-4ea9-8a1a-ba6d8ed0dbfa)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Future Scope.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Use Kubernetes to deploy the application for high availability.
+2. Use Jenkinsfile for the Jenkins pipeline.
+3. Set up a DNS record to access the application.
