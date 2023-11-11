@@ -1,6 +1,6 @@
 
 # To-do-list-Project
-A Django-based to-do app is a web application that allows users to create, manage, and track their to-do items. Django is a Python web framework that makes it easy to develop and maintain web applications.
+This project involved hosting a Django-based web application using Docker Compose and setting up a CI/CD pipeline using Jenkins and GitHub. The CI/CD pipeline was designed to deploy the application to a local Docker Compose environment whenever changes were made to the GitHub repository following the execution of the pipeline.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To host django app on local.
