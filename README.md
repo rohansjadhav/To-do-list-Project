@@ -139,4 +139,5 @@ Future Scope.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Use Kubernetes to deploy the application for high availability.
 2. Use Jenkinsfile for the Jenkins pipeline.
-3. Set up a DNS record to access the application.
+3. Use the Docker repository or AWS ECR to save the Images.
+4. Set up a DNS record to access the application.
